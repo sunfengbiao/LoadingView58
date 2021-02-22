@@ -21,7 +21,7 @@ import androidx.annotation.Nullable;
  * @CreateDate: 2021/2/22 2:38 PM
  * @UpdateDate: 2021/2/22 2:38 PM
  * @Version: 1.0
- * @Description:
+ * @Description: 自定义加载view
  */
 public class LoadingView extends LinearLayout {
     private ShapeView mShapeView;
